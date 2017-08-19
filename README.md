@@ -1,4 +1,4 @@
-# NavigationViewDemo2
+# NavigationViewDemo
 
 ### Check out the <code><i>Menu </i></code>folder they have XML file
   1) menu_item_only              2) menu_item_group     3) menu_item_with_header
