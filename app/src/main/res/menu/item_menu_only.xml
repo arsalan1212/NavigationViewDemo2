@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Facebook"
+        android:id="@+id/facebook"
+        android:icon="@drawable/ic_action_facebook"
+        android:checkable="true"/>
+
+    <item android:title="Twitter"
+        android:id="@+id/twitter"
+        android:icon="@drawable/ic_action_twitter"
+        android:checkable="true"/>
+
+    <item android:title="Pinterest"
+        android:id="@+id/pinterest"
+        android:icon="@drawable/ic_action_pinterest"
+        android:checkable="true"/>
+
+    <item android:title="Googel Play"
+        android:id="@+id/googleplay"
+        android:icon="@drawable/ic_action_google_play"
+        android:checkable="true"/>
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_action_home"
+        android:checkable="true"/>
+
+    <item android:title="Brightness"
+        android:id="@+id/brightness"
+        android:icon="@drawable/ic_brightness_7"
+        android:checkable="true"/>
+
+    <item android:title="Edit"
+        android:id="@+id/edit"
+        android:icon="@drawable/ic_edit"
+        android:checkable="true"/>
+
+    <item android:title="Phone call start"
+        android:id="@+id/phonecallstart"
+        android:icon="@drawable/ic_action_phone_start"
+        android:checkable="true"/>
+
+    <item android:title="Phone Talk call"
+        android:icon="@drawable/ic_phone_in_talk"
+        android:id="@+id/phonecalltalk"
+        android:checkable="true"/>
+
+    <item android:title="Video call"
+        android:id="@+id/videocall"
+        android:icon="@drawable/ic_video_call"
+        android:checkable="true"/>
+</menu>
